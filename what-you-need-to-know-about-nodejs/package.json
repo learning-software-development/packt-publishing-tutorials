@@ -1,6 +1,6 @@
 {
   "name": "what-you-need-to-know-about-nodejs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "What You Need To Know About Node.js",
   "main": "nodemonapp.js",
   "private": true,
@@ -9,12 +9,12 @@
     "start": "nodemon nodemonapp.js"
   },
   "keywords": [
+    "packt-publishing",
     "tutorial",
-    "nodejs",
-    "packt-publishing"
+    "nodejs"
   ],
-  "author": "Quintin Henn <quintin.henn@gmail.com>",
-  "license": "ISC",
+  "author": "Quintin Henn",
+  "license": "Unlicense",
   "dependencies": {
     "body-parser": "^1.19.0",
     "config": "^3.2.4",

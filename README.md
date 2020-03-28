@@ -10,6 +10,7 @@ These are all the [Packt Publishing's free learning](https://www.packtpub.com/fr
 1. ✅ [What You Need To Know About Node.js](what-you-need-to-know-about-nodejs)
 2. ✅ [What you need to know about Angular 2](what-you-need-to-know-about-angular-2)
 3. ✅ [Instant Node.js Starter](instant-nodejs-starter)
+4. ⬜️ [Vue.js Quick Start Guide](vuejs-quick-start-guide)
 
 ## License
 
