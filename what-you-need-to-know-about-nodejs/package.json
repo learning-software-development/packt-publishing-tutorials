@@ -1,0 +1,29 @@
+{
+  "name": "what-you-need-to-know-about-nodejs",
+  "version": "0.0.0",
+  "description": "What You Need To Know About Node.js",
+  "main": "nodemonapp.js",
+  "private": true,
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon nodemonapp.js"
+  },
+  "keywords": [
+    "tutorial",
+    "nodejs",
+    "packt-publishing"
+  ],
+  "author": "Quintin Henn <quintin.henn@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "request": "^2.88.0"
+  }
+}
