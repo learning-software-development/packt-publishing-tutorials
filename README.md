@@ -7,8 +7,10 @@ These are all the [Packt Publishing's free learning](https://www.packtpub.com/fr
 
 ## What You Need To Know About Tutorial
 
-1. ✅ [What You Need To Know About Node.js](what-you-need-to-know-about-nodejs/README.md)
-2. ✅ [What you need to know about Angular 2](what-you-need-to-know-about-angular-2/README.md)
-3. ✅ [Instant Node.js Starter](instant-nodejs-starter/README.md)
+1. ✅ [What You Need To Know About Node.js](what-you-need-to-know-about-nodejs)
+2. ✅ [What you need to know about Angular 2](what-you-need-to-know-about-angular-2)
+3. ✅ [Instant Node.js Starter](instant-nodejs-starter)
+
+## License
 
 The source code is free -- see the [LICENSE](LICENSE) file for details
