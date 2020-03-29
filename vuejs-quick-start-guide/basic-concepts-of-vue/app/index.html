@@ -1,0 +1,58 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>Basic Concepts of Vue</title>
+  <meta name="description" content="Vue.js Quick Start Guide: Basic Concepts of Vue">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+  <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+  <div id="app">
+
+    <div class="container">
+      <main-title-component></main-title-component>
+
+      <p>Enter owner name and the thing that is owned:</p>
+      <input v-model.lazy="ownerName" placeholder="enter owner">
+      <input v-model.lazy="thing" placeholder="enter thing">
+      <h2 v-if="ownerName && thing">{{ ownerHasThing }}</h2>
+
+      <custom-article v-bind:content="datacontent"></custom-article>
+
+      <div class="container mt-5 mb-5">
+        <div class="row">
+          <div class="col">
+            <list-group-component></list-group-component>
+          </div>
+          <div class="col">
+            <card-component></card-component>
+          </div>
+        </div>
+      </div>
+
+      <the-footer></the-footer>
+
+    </div>
+  </div>
+
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>

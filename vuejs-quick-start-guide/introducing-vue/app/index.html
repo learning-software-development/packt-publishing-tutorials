@@ -1,0 +1,61 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>Introducing Vue</title>
+  <meta name="description" content="Vue.js Quick Start Guide: Introducing Vue">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+  <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+  <!-- Add your site or application content here -->
+  <div id="entryPoint">
+    <h1>{{ heading1 }}</h1>
+    <h2>{{ heading2 }}</h2>
+
+    <div>
+      <input v-model.trim="userInput" placeholder="type here">
+      <p>You have typed in: {{ userInput }}</p>
+    </div>
+
+    <div>
+      <span>Enter the weight in kilograms:</span>
+      <input v-model="someNum" type="number">
+      <p>The weight in pounds is: {{ someNum * 2.20 }}</p>
+    </div>
+
+    <div>
+      <button v-on:click="counter += 1">Add 1</button>
+      <p>The button above has been clicked {{ counter }} times.</p>
+    </div>
+
+    <div>
+      <!-- 'whatIsVue' and 'whyUseVue' are functions defined in the 'methods' option in the Vue instance -->
+      <button v-on:click="whatIsVue">What is Vue?</button>
+      <button v-on:click="whyUseVue">Why use Vue?</button>
+    </div>
+
+    <div>
+      <p>User name: "{{ userName }}"</p>
+      <p>Message prefixed with a title: "{{ prefixedMessage }}"</p>
+    </div>
+  </div>
+
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>
