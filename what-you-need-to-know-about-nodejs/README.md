@@ -1,6 +1,6 @@
 # What You Need To Know About Node.js
 
-Free PDF eBook: What You Need To Know About Node.js on Packt Publishing
+:books: Free PDF eBook: What You Need To Know About Node.js on Packt Publishing
 
 ## Development
 

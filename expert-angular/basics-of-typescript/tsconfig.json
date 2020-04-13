@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es5"
+  },
+  "files": [
+    "introduction.ts",
+    "advance.ts",
+    "modules.ts"
+  ]
+}
