@@ -13,6 +13,14 @@ These are all the [Packt Publishing's free learning](https://www.packtpub.com/fr
 4. :o: [Vue.js Quick Start Guide](vuejs-quick-start-guide)
 5. :o: [Expert Angular](expert-angular)
 
+## Java Tutorials
+
+1. :o: [Gradle Effective Implementation Guide](gradle-effective-implementation-guide/)
+
+## Development
+
+- :o: [GitHub Essentials](github-essentials)
+
 ## License
 
 The source code is free -- see the [LICENSE](LICENSE) file for details
