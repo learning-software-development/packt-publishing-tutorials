@@ -1,6 +1,6 @@
-# [GitHub Essentials][tutorial]
+# :mortar_board: GitHub Essentials
 
-[Source on GitHub](https://github.com/github-essentials/github-essentials-v1/tree/gh-pages)
+:books: [eBook][ebook] on Packt Publishing | [Source on GitHub](https://github.com/github-essentials/github-essentials-v1/tree/gh-pages)
 
 ## Setup and Installation
 
@@ -25,7 +25,7 @@ gem 'github-pages'
 3. Remove temp folder `rmdir initdir`
 4. Install dependencies `bundle install`
 
-[tutorial]: https://www.packtpub.com/application-development/github-essentials
-
 Build the site locally `bundle exec jekyll serve --watch`  
 Site is running on [http://localhost:4000](http://localhost:4000)
+
+[ebook]: https://www.packtpub.com/application-development/github-essentials

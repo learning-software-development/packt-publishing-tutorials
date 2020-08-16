@@ -1,5 +1,5 @@
-# [Vue.js Quick Start Guide][tutorial]
+# :mortar_board: Vue.js Quick Start Guide
 
-:books: Learn and explore all important features of Vue.js through a number of simple examples.
+:books: [eBook][ebook] on Packt Publishing
 
-[tutorial]: https://subscription.packtpub.com/book/application_development/9781789344103
+[ebook]: https://www.packtpub.com/application-development/vuejs-quick-start-guide

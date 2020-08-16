@@ -1,0 +1,21 @@
+{
+  "name": "mastering-bootstrap-4",
+  "version": "0.1.0",
+  "description": "Mastering Bootstrap 4",
+  "main": "index.html",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "tutorial",
+    "bootstrap4"
+  ],
+  "author": "Quintin Henn <quintin.henn@gmail.com>",
+  "license": "Unlicense",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}

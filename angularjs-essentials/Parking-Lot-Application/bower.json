@@ -1,0 +1,26 @@
+{
+  "name": "parking-lot-application",
+  "authors": [
+    "Quintin Henn <quintin.henn@momentum.co.za>"
+  ],
+  "description": "AngularJS tutorial parking lot application",
+  "main": "index.html",
+  "keywords": [
+    "angularjs",
+    "tutorial"
+  ],
+  "license": "MIT",
+  "homepage": "http://skerwe.web.za",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.7.8"
+  },
+  "devDependencies": {}
+}

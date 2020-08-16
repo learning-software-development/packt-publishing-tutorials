@@ -1,5 +1,5 @@
-# [Instant Node.js Starter][tutorial]
+# :mortar_board: Instant Node.js Starter
 
-:books: Instant Node.js Starter on Packt Publishing
+:books: [eBook][ebook] on Packt Publishing
 
-[tutorial]: https://subscription.packtpub.com/book/web_development/9781782165569
+[ebook]: https://www.packtpub.com/web-development/instant-nodejs-starter-instant

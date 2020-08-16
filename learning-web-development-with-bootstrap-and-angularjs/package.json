@@ -1,0 +1,19 @@
+{
+  "name": "learning-web-development-with-bootstrap-and-angularjs",
+  "version": "0.1.0",
+  "description": "Learning Web Development with Bootstrap and AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tutorial",
+    "angularjs",
+    "packt-publishing"
+  ],
+  "author": "Quintin Henn <quintin.henn@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}

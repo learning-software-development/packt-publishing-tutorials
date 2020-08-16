@@ -1,3 +1,5 @@
-# Expert Angular Course
+# :mortar_board: Expert Angular Course
 
-:books: [Course on PactPublishing](https://subscription.packtpub.com/book/web_development/9781785880230)
+:books: [eBook][ebook] on Packt Publishing
+
+[ebook]: https://www.packtpub.com/web-development/expert-angular

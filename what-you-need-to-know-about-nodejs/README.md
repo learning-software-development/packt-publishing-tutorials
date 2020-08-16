@@ -1,6 +1,6 @@
-# What You Need To Know About Node.js
+# :mortar_board: What You Need To Know About Node.js
 
-:books: Free PDF eBook: What You Need To Know About Node.js on Packt Publishing
+:books: Free PDF eBook on Packt Publishing
 
 ## Development
 
