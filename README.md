@@ -39,8 +39,9 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 ## :beginner: Development Tutorials and Courses
 
-- :heavy_check_mark: [GitHub Essentials](github-essentials/)
 - :heavy_check_mark: [Instant Handlebars.js](instant-handlebars/)
+- :heavy_check_mark: [GitHub Essentials](github-essentials/)
+- :heavy_check_mark: GitLab Quick Start Guide
 
 ## :page_with_curl: License
 
