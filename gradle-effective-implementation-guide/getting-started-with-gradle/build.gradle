@@ -1,0 +1,50 @@
+defaultTasks 'defaultProperties'
+
+// setDescription("Simple project")
+
+version = '1.0'
+group = 'Sample'
+description = 'Sample build file to show project properties'
+
+ext {
+	anotherCustomProperty = 'custom'
+}
+
+task defaultProperties () {
+    println "Project: $project"
+    println "Name: $name"
+    println "Path: $path"
+    println "Project directory: $projectDir"
+    println "Build directory: $buildDir"
+    println "Version: $version"
+    println "Group: $project.group"
+    println "Description: $project.description"
+    println "AntBuilder: $ant"
+}
+
+task first (group: "Custom", description: "First tasks") {
+  doFirst {
+    println 'Hello world!'
+  }
+}
+
+task hello {
+  doLast {
+      println 'Hello world!'
+  }
+}
+
+task simple (group: "Custom", description: "Copies sources to the dest directory") {
+  dependsOn first
+  doLast {
+    println 'Running simple task for project ' + project.description
+  }
+}
+
+task intro {
+  dependsOn simple
+  doLast {
+      println "I'm Gradle"
+  }
+}
+
