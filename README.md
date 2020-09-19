@@ -8,7 +8,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 ## :beginner: What You Need To Know About Tutorials
 
 1. :heavy_check_mark: [What you need to know about Angular 2](what-you-need-to-know-about-angular-2/)
-2. :o: [What you need to know about Python](what-you-need-to-know-about-python/)
+2. :heavy_check_mark: [What you need to know about Python](what-you-need-to-know-about-python/)
 3. :heavy_check_mark: [What You Need To Know About Node.js](what-you-need-to-know-about-nodejs/)
 4. :heavy_check_mark: [Instant Node.js Starter](instant-nodejs-starter/)
 5. :o: What you need to know about Unity 5
