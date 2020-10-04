@@ -32,7 +32,8 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 ## :beginner: Python Tutorials and Courses
 
 1. :o: [Python 3 Object Oriented Programming](python-3-object-oriented-programming/)
-2. :o: [Learning Python](learning-python/)
+2. :o: [Learning Python](learning-python/) (eBook + Video)
+3. :o: [Learning Python Application Development](learning-python-application-development/)
 
 ## :beginner: Java Tutorials and Courses
 
