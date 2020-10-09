@@ -31,9 +31,9 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 ## :beginner: Python Tutorials and Courses
 
-1. :o: [Python 3 Object Oriented Programming](python-3-object-oriented-programming/)
-2. :o: [Learning Python](learning-python/) (eBook + Video)
-3. :o: [Learning Python Application Development](learning-python-application-development/)
+1. :o: [Learning Python](learning-python/) (eBook + Video)
+2. :o: [Learning Python Application Development](learning-python-application-development/)
+3. :o: [Python 3 Object Oriented Programming](python-3-object-oriented-programming/)
 
 ## :beginner: Java Tutorials and Courses
 
@@ -44,6 +44,11 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 - :heavy_check_mark: [Instant Handlebars.js](instant-handlebars/)
 - :heavy_check_mark: [GitHub Essentials](github-essentials/)
 - :heavy_check_mark: GitLab Quick Start Guide
+- :o: [Mastering Git](mastering-git/) (eBook + Video)
+
+## :gebinner: Application Tutorials
+
+- :o: [Blender 2.5 HOTSHOT](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/blender-25-hotshot) :rocket:
 
 ## :page_with_curl: License
 
