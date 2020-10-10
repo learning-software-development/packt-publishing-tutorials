@@ -43,8 +43,9 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 - :heavy_check_mark: [Instant Handlebars.js](instant-handlebars/)
 - :heavy_check_mark: [GitHub Essentials](github-essentials/)
-- :heavy_check_mark: GitLab Quick Start Guide
+- :heavy_check_mark: [GitLab Quick Start Guide](https://www.packtpub.com/product/gitlab-quick-start-guide/9781789534344)
 - :o: [Mastering Git](mastering-git/) (eBook + Video)
+- :o: [Git Best Practices Guide](https://www.packtpub.com/product/git-best-practices-guide/9781783553730)
 
 ## :gebinner: Application Tutorials
 
