@@ -37,7 +37,9 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 ## :beginner: Java Tutorials and Courses
 
-1. :o: [Gradle Effective Implementation Guide](gradle-effective-implementation-guide/)
+1. :heavy_check_mark: Maven for Eclipse
+2. :o: [Gradle Effective Implementation Guide](gradle-effective-implementation-guide/)
+3. :o: [Java Projects - Second Edition](java-projects-second-edition/)
 
 ## :beginner: Development Tutorials and Courses
 
