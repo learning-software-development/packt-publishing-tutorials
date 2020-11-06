@@ -5,6 +5,7 @@
 ## Documentation
 
 - [Using Pickle](https://wiki.python.org/moin/UsingPickle)
+- [Python args and kwargs: Demystified](https://realpython.com/python-kwargs-and-args/)
 
 [ebook]: https://www.packtpub.com/product/learning-python/9781783551712
 [video]: https://www.packtpub.com/product/learning-python-video/9781788995115
