@@ -49,7 +49,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 - :o: [Mastering Git](mastering-git/) (eBook + Video)
 - :o: [Git Best Practices Guide](https://www.packtpub.com/product/git-best-practices-guide/9781783553730)
 
-## :gebinner: Application Tutorials
+## :beginner: Application Tutorials
 
 - :o: [Blender 2.5 HOTSHOT](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/blender-25-hotshot) :rocket:
 
