@@ -7,19 +7,19 @@ group = 'Sample'
 description = 'Sample build file to show project properties'
 
 ext {
-	anotherCustomProperty = 'custom'
+  anotherCustomProperty = 'custom'
 }
 
 task defaultProperties () {
-    println "Project: $project"
-    println "Name: $name"
-    println "Path: $path"
-    println "Project directory: $projectDir"
-    println "Build directory: $buildDir"
-    println "Version: $version"
-    println "Group: $project.group"
-    println "Description: $project.description"
-    println "AntBuilder: $ant"
+  println "Project: $project"
+  println "Name: $name"
+  println "Path: $path"
+  println "Project directory: $projectDir"
+  println "Build directory: $buildDir"
+  println "Version: $version"
+  println "Group: $project.group"
+  println "Description: $project.description"
+  println "AntBuilder: $ant"
 }
 
 task first (group: "Custom", description: "First tasks") {
@@ -30,7 +30,7 @@ task first (group: "Custom", description: "First tasks") {
 
 task hello {
   doLast {
-      println 'Hello world!'
+    println 'Hello world!'
   }
 }
 
@@ -44,7 +44,7 @@ task simple (group: "Custom", description: "Copies sources to the dest directory
 task intro {
   dependsOn simple
   doLast {
-      println "I'm Gradle"
+    println "I'm Gradle"
   }
 }
 
