@@ -39,7 +39,8 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 1. :heavy_check_mark: Maven for Eclipse
 2. :o: [Gradle Effective Implementation Guide](gradle-effective-implementation-guide/)
-3. :o: [Java Projects - Second Edition](java-projects-second-edition/)
+3. :o: [Apache Maven 3 Cookbook](apache-maven-3-cookbook/)
+4. :o: [Java Projects - Second Edition](java-projects-second-edition/)
 
 ## :beginner: Development Tutorials and Courses
 
