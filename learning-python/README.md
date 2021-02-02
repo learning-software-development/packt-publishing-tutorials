@@ -14,7 +14,7 @@
 
 1. [Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
 
-## Solving Issues
+## Solving Django Issues
 
 - [missing 1 required positional argument: 'on_delete'](https://stackoverflow.com/questions/44026548/getting-typeerror-init-missing-1-required-positional-argument-on-delete)
 - [ModuleNotFoundError: No module named 'django.core.urlresolvers'](https://stackoverflow.com/questions/43139081/importerror-no-module-named-django-core-urlresolvers)
