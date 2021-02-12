@@ -32,7 +32,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 ## :beginner: Python Tutorials and Courses
 
 1. :heavy_check_mark: [Learning Python](learning-python/) (eBook + Video)
-2. :o: [Learn Python Programming - Second Edition](learn-python-programming-second-edition)
+2. :o: [Learn Python Programming - Second Edition](learn-python-programming-second-edition/)
 3. :o: [Learning Python Application Development](learning-python-application-development/)
 4. :o: [Python 3 Object Oriented Programming](python-3-object-oriented-programming/)
 
@@ -47,9 +47,9 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 - :heavy_check_mark: [Instant Handlebars.js](instant-handlebars/)
 - :heavy_check_mark: [GitHub Essentials](github-essentials/)
-- :heavy_check_mark: [GitLab Quick Start Guide](https://www.packtpub.com/product/gitlab-quick-start-guide/9781789534344)
+- :heavy_check_mark: [GitLab Quick Start Guide](https://www.packtpub.com/product/gitlab-quick-start-guide/9781789534344) :link:
 - :o: [Mastering Git](mastering-git/) (eBook + Video)
-- :o: [Git Best Practices Guide](https://www.packtpub.com/product/git-best-practices-guide/9781783553730)
+- :o: [Git Best Practices Guide](https://www.packtpub.com/product/git-best-practices-guide/9781783553730) :link:
 
 ## :beginner: Application Tutorials
 
