@@ -15,7 +15,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 ## :beginner: Web Application Tutorials and Courses
 
-1. :o: [AngularJS Essentials](angularjs-essentials/)
+1. :heavy_check_mark: [AngularJS Essentials](angularjs-essentials/)
 2. :o: [Learning Web Development with Bootstrap and AngularJS](learning-web-development-with-bootstrap-and-angularjs/)
 3. :o: [Vue.js Quick Start Guide](vuejs-quick-start-guide/)
 4. :o: [Learning TypeScript](learning-typescript/)
