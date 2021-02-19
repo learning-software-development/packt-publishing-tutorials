@@ -35,6 +35,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 2. :o: [Learn Python Programming - Second Edition](learn-python-programming-second-edition/)
 3. :o: [Learning Python Application Development](learning-python-application-development/)
 4. :o: [Python 3 Object Oriented Programming](python-3-object-oriented-programming/)
+5. :o: [Mastering Python Regular Expressions](https://www.packtpub.com/product/mastering-python-regular-expressions/9781783283156) :link:
 
 ## :beginner: Java Tutorials and Courses
 
