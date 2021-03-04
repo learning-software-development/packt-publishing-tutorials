@@ -10,8 +10,14 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 1. :heavy_check_mark: [What you need to know about Angular 2](what-you-need-to-know-about-angular-2/)
 2. :heavy_check_mark: [What you need to know about Python](what-you-need-to-know-about-python/)
 3. :heavy_check_mark: [What You Need To Know About Node.js](what-you-need-to-know-about-nodejs/)
-4. :heavy_check_mark: [Instant Node.js Starter](instant-nodejs-starter/)
-5. :o: [What you need to know about Unity 5](https://github.com/learning-game-development/learning-unity-game-development/tree/master/What-you-need-to-know-about-Unity) :rocket:
+4. :o: [What you need to know about Unity 5](https://github.com/learning-game-development/learning-unity-game-development/tree/master/What-you-need-to-know-about-Unity) :rocket:
+
+## :beginner: Instant Tutorials
+
+1. :heavy_check_mark: [Instant Node.js Starter](instant-nodejs-starter/)
+2. :heavy_check_mark: [Instant Handlebars.js](instant-handlebars/)
+3. :construction: [Instant SASS CSS How-to](/)
+4. :construction: [Instant Raspberry Pi Gaming](/) :rocket:
 
 ## :beginner: Web Application Tutorials and Courses
 
@@ -46,11 +52,10 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 ## :beginner: Development Tutorials and Courses
 
-- :heavy_check_mark: [Instant Handlebars.js](instant-handlebars/)
-- :heavy_check_mark: [GitHub Essentials](github-essentials/)
-- :heavy_check_mark: [GitLab Quick Start Guide](https://www.packtpub.com/product/gitlab-quick-start-guide/9781789534344) :link:
-- :o: [Mastering Git](mastering-git/) (eBook + Video)
-- :o: [Git Best Practices Guide](https://www.packtpub.com/product/git-best-practices-guide/9781783553730) :link:
+1. :heavy_check_mark: [GitHub Essentials](github-essentials/)
+2. :heavy_check_mark: [GitLab Quick Start Guide](https://www.packtpub.com/product/gitlab-quick-start-guide/9781789534344) :link:
+3. :o: [Mastering Git](mastering-git/) (eBook + Video)
+4. :heavy_check_mark: [Git Best Practices Guide](https://www.packtpub.com/product/git-best-practices-guide/9781783553730) :link:
 
 ## :beginner: Application Tutorials
 
