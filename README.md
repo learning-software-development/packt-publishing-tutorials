@@ -48,14 +48,14 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 1. :heavy_check_mark: Maven for Eclipse
 2. :heavy_check_mark: [Gradle Effective Implementation Guide](gradle-effective-implementation-guide/)
 3. :o: [Apache Maven 3 Cookbook](apache-maven-3-cookbook/)
-3. :construction: [Java Fundamentals]()
-4. :o: [Java Projects - Second Edition](java-projects-second-edition/)
+4. :construction: [Java Fundamentals](java-fundamentals/)
+5. :o: [Java Projects - Second Edition](java-projects-second-edition/)
 
 ## :beginner: Development Tutorials and Courses
 
 1. :heavy_check_mark: [GitHub Essentials](github-essentials/)
 2. :heavy_check_mark: [GitLab Quick Start Guide](https://www.packtpub.com/product/gitlab-quick-start-guide/9781789534344) :link:
-3. :o: [Mastering Git](mastering-git/) (eBook + Video)
+3. :heavy_check_mark: [Mastering Git](mastering-git/) (eBook + Video)
 4. :heavy_check_mark: [Git Best Practices Guide](https://www.packtpub.com/product/git-best-practices-guide/9781783553730) :link:
 
 ## :beginner: Application Tutorials
