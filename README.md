@@ -10,7 +10,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 1. :heavy_check_mark: [What you need to know about Angular 2](what-you-need-to-know-about-angular-2/)
 2. :heavy_check_mark: [What you need to know about Python](what-you-need-to-know-about-python/)
 3. :heavy_check_mark: [What You Need To Know About Node.js](what-you-need-to-know-about-nodejs/)
-4. :o: [What you need to know about Unity 5](https://github.com/learning-game-development/learning-unity-game-development/tree/master/What-you-need-to-know-about-Unity) :rocket:
+4. :heavy_check_mark: [What you need to know about Unity 5](https://github.com/learning-game-development/learning-unity-game-development/tree/master/What-you-need-to-know-about-Unity) :rocket:
 
 ## :beginner: Instant Tutorials
 
