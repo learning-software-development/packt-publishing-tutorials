@@ -33,7 +33,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 ## :beginner: Web Development Tutorials and Courses
 
 1. :o: [WebGL Beginner's Guide](webgl-beginners-guide/)
-2. :o: [Mastering Bootstrap 4](mastering-bootstrap-4/)
+2. :heavy_check_mark: [Mastering Bootstrap 4](mastering-bootstrap-4/)
 
 ## :beginner: Python Tutorials and Courses
 
