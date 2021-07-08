@@ -16,7 +16,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 1. :heavy_check_mark: [Instant Node.js Starter](instant-nodejs-starter/)
 2. :heavy_check_mark: [Instant Handlebars.js](instant-handlebars/)
-3. :construction: [Instant SASS CSS How-to](/)
+3. :o: [Instant SASS CSS How-to](instant-sass-css/)
 4. :construction: [Instant Raspberry Pi Gaming](/) :rocket:
 
 ## :beginner: Web Application Tutorials and Courses
