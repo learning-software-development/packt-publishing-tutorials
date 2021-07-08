@@ -1,1 +1,1 @@
-java -classpath build/classes tutorial.ProductOfNos
+java -classpath build/classes tutorial.ReadInput
