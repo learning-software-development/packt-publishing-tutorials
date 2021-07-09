@@ -13,7 +13,7 @@
     "tutorial",
     "bootstrap4"
   ],
-  "author": "Quintin Henn <quintin.henn@gmail.com>",
+  "author": "Quintin Henn (http://skerwe.web.za)",
   "license": "Unlicense",
   "devDependencies": {
     "parcel-bundler": "^1.12.3"

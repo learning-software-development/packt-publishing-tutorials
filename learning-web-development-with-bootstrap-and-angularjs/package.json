@@ -11,7 +11,7 @@
     "angularjs",
     "packt-publishing"
   ],
-  "author": "Quintin Henn <quintin.henn@gmail.com>",
+  "author": "Quintin Henn (http://skerwe.web.za)",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.4.1"
