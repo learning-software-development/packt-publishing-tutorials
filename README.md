@@ -61,6 +61,8 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 ## :beginner: Game Development Tutorials and Courses
 
 - :o: [Blender 2.5 HOTSHOT](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/blender-25-hotshot) :rocket:
+- :construction: Google SketchUp for Game Design: Beginner's Guide
+- :construction: Practical Game Design
 
 ## :page_with_curl: License
 
