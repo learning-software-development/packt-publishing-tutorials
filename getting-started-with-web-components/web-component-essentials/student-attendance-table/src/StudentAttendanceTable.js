@@ -1,11 +1,10 @@
 export default class StudentAttendanceTable extends HTMLElement {
   constructor() {
     super();
-    this.render();
+    this.innerText = this.getLoadingText();
   }
 
-  render() {
-    this.innerText = this.getLoadingText();
+  connectedCallback() {
     this.getStudentList();
   }
 
