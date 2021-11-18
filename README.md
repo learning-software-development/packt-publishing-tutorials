@@ -47,10 +47,11 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 ## :beginner: Java Tutorials and Courses
 
 1. :heavy_check_mark: Maven for Eclipse
-2. :heavy_check_mark: [Gradle Effective Implementation Guide](gradle-effective-implementation-guide/)
-3. :o: [Apache Maven 3 Cookbook](apache-maven-3-cookbook/)
-4. :o: [Java Fundamentals](java-fundamentals/)
+2. :heavy_check_mark: [Gradle Effective Implementation Guide](java-tutorials-and-courses/gradle-effective-implementation-guide/)
+3. :o: [Apache Maven 3 Cookbook](java-tutorials-and-courses/apache-maven-3-cookbook/)
+4. :o: [Java Fundamentals](java-tutorials-and-courses/java-fundamentals/)
 5. :o: [Java Projects - Second Edition](java-projects-second-edition/)
+6. :o: [Learning Spring Boot 2.0 - Second Edition](java-tutorials-and-courses/learning-spring-boot-second-edition/)
 
 ## :beginner: Development Tutorials and Courses
 
