@@ -2,6 +2,12 @@
 
 :books: [eBook][ebook] on Packt Publishing
 
+## Start the SpringBoot Application
+
+```shell
+gradle bootRun
+```
+
 ## Resource Links
 
 1. [Spring Boot](https://spring.io/projects/spring-boot)
