@@ -10,6 +10,10 @@ export default class CompanyLogin extends HTMLElement {
     this.shadowObj.querySelector('button').addEventListener('click', (e) => this.handleLogin(e));
   }
 
+  disconnectedCallback() {
+    this.shadowObj.querySelector('button').removeEventListener('click');
+  }
+
   getTemplate() {
     return `
       <input type="text" name="username" placeholder="Username"/>
