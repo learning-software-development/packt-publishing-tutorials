@@ -70,4 +70,4 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 The source code is free -- see the [LICENSE](LICENSE) file for details
 
-[packt]: (https://www.packtpub.com/free-learning)
+[packt]: https://www.packtpub.com/free-learning
