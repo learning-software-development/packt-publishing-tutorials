@@ -59,6 +59,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 2. :heavy_check_mark: [GitLab Quick Start Guide](https://www.packtpub.com/product/gitlab-quick-start-guide/9781789534344) :link:
 3. :heavy_check_mark: [Mastering Git](mastering-git/) (eBook + Video)
 4. :heavy_check_mark: [Git Best Practices Guide](https://www.packtpub.com/product/git-best-practices-guide/9781783553730) :link:
+5. :heavy_check_mark: Selenium 2 Testing Tools: Beginner's Guide
 
 ## :beginner: Game Development Tutorials and Courses
 
