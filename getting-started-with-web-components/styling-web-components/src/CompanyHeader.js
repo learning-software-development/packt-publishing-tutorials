@@ -35,10 +35,7 @@ export default class CompanyHeader extends HTMLElement {
       <img class="icon" src="${this.icon}" />
     </a>
     <h1 class="heading">${this.pageName}</h1>
-    <div>
-      <a class="header-links" href="/home.html">Home</a>
-      <a class="header-links" href="/aboutus.html">About Us</a>
-    </div>
+    <slot name="other-links"></slot>
     <style>
       :host {
         display: flex;
@@ -55,11 +52,6 @@ export default class CompanyHeader extends HTMLElement {
         flex: 1;
         color: white;
         padding-left: 20px;
-      }
-      .header-links {
-        text-decoration: none;
-        padding: 20px;
-        color: white;
       }
     </style>
     `;
