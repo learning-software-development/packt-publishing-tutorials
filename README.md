@@ -10,7 +10,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 1. :heavy_check_mark: [What you need to know about Angular 2](what-you-need-to-know-about-angular-2/)
 2. :heavy_check_mark: [What you need to know about Python](what-you-need-to-know-about-python/)
 3. :heavy_check_mark: [What You Need To Know About Node.js](what-you-need-to-know-about-nodejs/)
-4. :heavy_check_mark: [What you need to know about Unity 5](https://github.com/learning-game-development/learning-unity-game-development/tree/master/What-you-need-to-know-about-Unity) :rocket:
+4. :heavy_check_mark: [What you need to know about Unity 5](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
 
 ## :beginner: Instant Tutorials
 
@@ -35,6 +35,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 1. :o: [WebGL Beginner's Guide](webgl-beginners-guide/)
 2. :heavy_check_mark: [Mastering Bootstrap 4](mastering-bootstrap-4/)
 3. :o: [Getting Started with Web Components](getting-started-with-web-components/)
+4. :o: [Learn Three.js - Third Edition](learn-threejs/)
 
 ## :beginner: Python Tutorials and Courses
 
@@ -63,9 +64,11 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 ## :beginner: Game Development Tutorials and Courses
 
-- :o: [Blender 2.5 HOTSHOT](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/blender-25-hotshot) :rocket:
+- :no_entry: [Blender 2.5 HOTSHOT](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/blender-25-hotshot) :rocket:
+- :o: [Blender 2.5 Character Animation Cookbook](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/character-animation-cookbook) :rocket:
 - :construction: Google SketchUp for Game Design: Beginner's Guide
 - :construction: Practical Game Design
+- :o: [Unity 5.x Cookbook](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
 
 ## :page_with_curl: License
 
