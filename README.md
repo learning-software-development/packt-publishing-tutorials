@@ -54,6 +54,8 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 4. :o: [Java Fundamentals](java-tutorials-and-courses/java-fundamentals)
 5. :o: [Java Projects - Second Edition](java-tutorials-and-courses/java-projects-second-edition)
 6. :o: [Learning Spring Boot 2.0 - Second Edition](java-tutorials-and-courses/learning-spring-boot-second-edition)
+7. :construction: Java Coding Problems
+8. :no_entry: RESTful Java Patterns and Best Practices
 
 ## :beginner: Development Tutorials and Courses
 
@@ -67,13 +69,13 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 
 ### Unity
 
-1. :0: [Unity 4 Game Development HOTSHOT](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
+1. :o: [Unity 4 Game Development HOTSHOT](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
 2. :o: [Unity 5.x Cookbook](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
 3. :o: [Unity 4.x Cookbook](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
 
 ### Blender
 
-1. :no_entry: [Blender 2.5 HOTSHOT](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/blender-25-hotshot) :rocket:
+1. :o: [Blender 2.5 HOTSHOT](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/blender-25-hotshot) :rocket:
 2. :o: [Blender 2.5 Character Animation Cookbook](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/character-animation-cookbook) :rocket:
 
 ### Other
