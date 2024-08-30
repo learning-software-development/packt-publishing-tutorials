@@ -55,7 +55,12 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 5. :o: [Java Projects - Second Edition](java-tutorials-and-courses/java-projects-second-edition)
 6. :o: [Learning Spring Boot 2.0 - Second Edition](java-tutorials-and-courses/learning-spring-boot-second-edition)
 7. :construction: Java Coding Problems
-8. :no_entry: RESTful Java Patterns and Best Practices
+8. :o: RESTful Java Web Services - Second Edition
+9. :no_entry: RESTful Java Patterns and Best Practices
+10. :construction: Java EE 6 Development with NetBeans 7
+11. :construction: Java EE 6 with GlassFish 3 Application Server
+12. :construction: RESTful Java Web Services - Second Edition
+13. :construction: Learning Java by Building Android Games | Learning Java by Building Android Games - Second Edition
 
 ## :beginner: Development Tutorials and Courses
 
