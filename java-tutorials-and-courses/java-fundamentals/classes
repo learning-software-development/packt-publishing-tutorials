@@ -4,6 +4,7 @@ src/exercises/HelloNonASCIIWorld.java
 src/exercises/HelloWorld.java
 src/exercises/ProductOfNos.java
 src/exercises/Person.java
+src/exercises/PersonListener.java
 src/activities/ReadScanner.java
 src/activities/SimpleArithmetic.java
 src/activities/StockChangeCalculator.java
