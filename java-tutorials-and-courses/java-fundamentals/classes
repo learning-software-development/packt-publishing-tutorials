@@ -3,8 +3,10 @@ src/exercises/DeliveryFee.java
 src/exercises/HelloNonASCIIWorld.java
 src/exercises/HelloWorld.java
 src/exercises/ProductOfNos.java
+src/exercises/Person.java
 src/activities/ReadScanner.java
 src/activities/SimpleArithmetic.java
 src/activities/StockChangeCalculator.java
+src/activities/Animal.java
 src/bonus/ReadInput.java
 src/util/UserInput.java
