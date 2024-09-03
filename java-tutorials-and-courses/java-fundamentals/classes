@@ -5,6 +5,9 @@ src/exercises/HelloWorld.java
 src/exercises/ProductOfNos.java
 src/exercises/Person.java
 src/exercises/PersonListener.java
+src/exercises/ReadCSVFile.java
+src/exercises/CSVReader.java
+src/exercises/UseCSVReaderSample.java
 src/activities/ReadScanner.java
 src/activities/SimpleArithmetic.java
 src/activities/StockChangeCalculator.java
