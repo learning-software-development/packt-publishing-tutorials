@@ -1,4 +1,4 @@
-package com.greglturnquist.learningspringboot;
+package sh.surge.skerwe.learningspringboot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

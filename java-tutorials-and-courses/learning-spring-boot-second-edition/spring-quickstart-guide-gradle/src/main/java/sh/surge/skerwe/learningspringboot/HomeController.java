@@ -1,4 +1,4 @@
-package com.greglturnquist.learningspringboot;
+package sh.surge.skerwe.learningspringboot;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
