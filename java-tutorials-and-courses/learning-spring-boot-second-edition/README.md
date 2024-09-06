@@ -8,6 +8,13 @@
 gradle bootRun
 ```
 
+## Compile the SpringBoot Application
+
+```shell
+gradle compileJava
+gradle compileTest
+```
+
 ## Resource Links
 
 1. [Spring Boot](https://spring.io/projects/spring-boot)
