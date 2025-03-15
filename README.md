@@ -56,7 +56,7 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 6. :o: [Learning Spring Boot 2.0 - Second Edition](java-tutorials-and-courses/learning-spring-boot-second-edition)
 7. :construction: Java Coding Problems
 8. :no_entry: RESTful Java Patterns and Best Practices -- PDF no longer available
-9. :construction: Java EE 6 Development with NetBeans 7
+9. :o: [Java EE 6 Development with NetBeans 7](java-tutorials-and-courses/java-ee-netBeans/)
 10. :construction: Java EE 6 with GlassFish 3 Application Server
 11. :construction: RESTful Java Web Services - Second Edition
 12. :construction: Learning Java by Building Android Games | Learning Java by Building Android Games - Second Edition
@@ -74,8 +74,28 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 ### Unity
 
 1. :o: [Unity 4 Game Development HOTSHOT](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
-2. :o: [Unity 5.x Cookbook](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
-3. :o: [Unity 4.x Cookbook](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
+2. :o: [Unity 4.x Cookbook](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
+3. :o: [Unity 5.x Cookbook](https://github.com/learning-game-development/learning-unity-game-development/tree/master/Packtpub-Unity-Tutorials) :rocket:
+
+#### Humble Software Bundle: Becoming a C# and Unity Game Developer by Packt
+
+- :o: Intro to Unity - Game Development Made Easy
+- Master Unity Game Development in 30 Days - 25+ Game Projects
+- Master C# Scripting for Unity Game Development in Just 30 Days
+- Master Unity Android Game Development in 30 Days
+- How to CODE in Unity
+- Procedural Maze Building - Unity 6 and Blender Compatible
+- Create Minecraft-Inspired Voxel Worlds - Unity 6 Compatible
+- From Zero to Unity Shader Developer - Unity 6 Compatible
+- Tower Defense Game Development - Unity 6 and Blender Compatible
+- Master Inventory System Creation - Unity 6 & Blender Fundamentals
+- Build an Endless Runner Game in 3D - Unity 6 Compatible
+- AI Game Development Essentials for Beginners - Unity 6 Integration
+- Advanced Game AI Systems with Behaviour Trees - Unity 6 Compatible
+- Mastering 3D Pathfinding with Octree
+- :o: Unity Game Creation Bootcamp - Unity 6 Compatible
+- :o: Game Math Foundations - Unity 6 Compatible
+- Effective Game Design Patterns - Unity 6 Compatible
 
 ### Blender
 
