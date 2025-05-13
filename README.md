@@ -97,6 +97,13 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 - :o: Game Math Foundations - Unity 6 Compatible
 - Effective Game Design Patterns - Unity 6 Compatible
 
+#### Fanatica
+
+### Blender
+
+1. :o: [Blender 2.5 HOTSHOT](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/blender-25-hotshot) :rocket:
+2. :o: [Blender 2.5 Character Animation Cookbook](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/character-animation-cookbook) :rocket:
+
 #### Humble Video Learning Bundle: Unlock Pro 3D Modeling Skills with Blender by Packt
 
 - The Blender 4 Ultimate Guide
@@ -124,11 +131,6 @@ These are all the [Packt Publishing's free learning][packt] tutorials and course
 - 3D Trees with Blender Geometry Nodes
 - Blender Geometry Nodes - Boats
 - Procedural Weapon Generation with Blender 4.4
-
-### Blender
-
-1. :o: [Blender 2.5 HOTSHOT](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/blender-25-hotshot) :rocket:
-2. :o: [Blender 2.5 Character Animation Cookbook](https://github.com/learning-game-development/learning-game-development-tools/tree/master/learning-blender/character-animation-cookbook) :rocket:
 
 ### Other
 
